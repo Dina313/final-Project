@@ -1,0 +1,10 @@
+D:\FpPemrog\numpang\caffe\chandra\bin\Debug\chandra.exe.config
+D:\FpPemrog\numpang\caffe\chandra\bin\Debug\chandra.exe
+D:\FpPemrog\numpang\caffe\chandra\bin\Debug\chandra.pdb
+D:\FpPemrog\numpang\caffe\chandra\obj\Debug\chandra.csprojAssemblyReference.cache
+D:\FpPemrog\numpang\caffe\chandra\obj\Debug\chandra.Form1.resources
+D:\FpPemrog\numpang\caffe\chandra\obj\Debug\chandra.login.resources
+D:\FpPemrog\numpang\caffe\chandra\obj\Debug\chandra.Properties.Resources.resources
+D:\FpPemrog\numpang\caffe\chandra\obj\Debug\chandra.csproj.GenerateResource.cache
+D:\FpPemrog\numpang\caffe\chandra\obj\Debug\chandra.exe
+D:\FpPemrog\numpang\caffe\chandra\obj\Debug\chandra.pdb
